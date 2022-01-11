@@ -1,6 +1,6 @@
 # Hi, This is Pankaj Kumar 👋
 
-<div align="center">
+<div>
   Always up for learning stuff 😄
 </div>
 
@@ -19,7 +19,7 @@
 <br>
 <hr>
 
-<div align="center" display="flex">
+<div align="center">
   <a href="https://www.facebook.com/pankaj.kumar.717">
     <i class="bi bi-facebook"></i>
   </a>
