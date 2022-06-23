@@ -4,7 +4,7 @@
 
 <br>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pankaj1707k&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pankaj1707k&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=false&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
