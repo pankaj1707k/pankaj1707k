@@ -2,8 +2,8 @@
 
 <br>
 <!-- <div style="display:flex; justify-content:space-between;"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=pankaj1707k&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=false&hide=stars" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj1707k&layout=compact&theme=tokyonight&langs_count=6" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=pankaj1707k&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=false&hide=stars" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj1707k&layout=compact&theme=tokyonight&langs_count=6" /> -->
 <!-- </div> -->
 <br>
 
