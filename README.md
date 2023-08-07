@@ -1,4 +1,8 @@
-# Hi 👋 I'm Pankaj Kumar
+# Hello visitor 👋
+
+Perhaps you are lost in the GitHub realm 🤔  
+Or maybe my profile was an explorable node in your traversal 😅  
+In any case, check out my projects while you are here 😄
 
 <!-- <br> -->
 <!-- <div style="display:flex; justify-content:space-between;"> -->
